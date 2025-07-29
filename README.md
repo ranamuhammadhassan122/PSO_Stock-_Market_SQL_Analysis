@@ -1,1 +1,1 @@
-# PSO_Stock-_Market_SQL_Analysis
+# PSO_Stock_Market_SQL_Analysis
