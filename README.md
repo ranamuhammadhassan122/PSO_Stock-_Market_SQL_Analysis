@@ -61,10 +61,3 @@ To showcase SQL proficiency by analyzing real-world stock data and delivering bu
 **Rana Muhammad Hassan**  
 _Student | AI Engineer | SQL Enthusiast_
 
----
-
-## 🔗 Project Link
-
-Paste this into LinkedIn:  
-`📎 GitHub Project: https://github.com/ranamuhammadhassan122/pso-sql-analysis`
-
